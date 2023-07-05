@@ -1,10 +1,13 @@
 ## Hello, eu sou a Maria Eugenia 👋
+Desenvolvedora front-end. 
+Estudante de Análise de Desenvolvimento de sistemas 🖥️
 
 <div>
   <a href="https://github.com/Eugeniialima">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eugeniialima&show_icons=true&theme=radical">
 </div>
-
+    
+## Principais Tecnologias:    
 <div style= "display: inline_block"><br/>
   <img align="center" alt="HTML5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="CSS3" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
